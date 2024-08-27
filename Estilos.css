@@ -1,0 +1,75 @@
+body {
+    background: linear-gradient(to top, #F0F8FF, AliceBlue);
+}
+
+h1 {
+    font-family: "Arial"; 
+    background: #FFCBDB;
+    color: White;
+    text-align: center;
+}
+
+h3 {
+    font-family: "Arial"; 
+    color: #87CEFA;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    background: #00BFFF;
+    color: #000080;
+    padding: 10px 20px; 
+    text-decoration: none;
+    border-radius: 20px;
+    border: 3px solid #4169E1;
+    display: inline-block; 
+    text-align: center;
+}
+
+a:hover {
+    background: #1E90FF;
+    color: White; 
+    font-weight: bold;
+}
+
+.dev-texto {
+    width: 500px;
+    background: #4169E1;
+    color: #00BFFF;
+    text-align: center;
+    padding: 5px;
+    margin: 0 auto;
+    font-family: sans-serif; 
+}
+
+hr {
+    width: 600px;
+    background: #87CEFA;
+    height: 10px;
+    border: 0;
+}
+
+
+.titulo{
+	text-align:center;
+}
+
+.paragrafo{
+	text-align:justify;
+	width:1000px;
+	margin: 20 auto;
+}
+.imagem{
+	width:500px;
+	display:block;
+	margin: 0 auto;
+}
+
+video{
+	display:block;
+	margin:0 auto;
+}
