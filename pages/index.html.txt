@@ -1,0 +1,20 @@
+<<html lang="pt-br">
+<head>
+      <title>livia</title>
+      <meta chaeset="UTF-8">
+      <link rel="stylesheet" href="./css/Estilos.css">
+</head>
+<body>
+
+	<h1>livia </h1>
+	<h3>Nada alem da verdade</h3>
+	<hr>
+	<p><a href="#">Noticia 1</a></p>
+	<p><a href="#">Noticia 2</a></p>
+	<p><a href="#">Noticia 3</a></p>
+	<hr>
+	<p>Desenvolvido por: livia fernandes
+	<
+      
+      </body>
+      </html>
